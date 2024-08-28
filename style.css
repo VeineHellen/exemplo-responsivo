@@ -1,8 +1,8 @@
 @import url("estilos/header.css");
 
 :root{
-    --amarelo:#3366FF; --fundo-azul:#23239de4;
-    --lilas:#a510a5; --fonte-projeto:"Dosis";
+    --amarelo:#8dc; --fundo-azul:#276;
+    --lilas:#fff; --fonte-projeto:"Dosis";
 
 }
 body{
